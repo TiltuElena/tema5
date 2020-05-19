@@ -1,0 +1,9 @@
+* {
+    background: gray;
+}
+
+#imageRight {
+    float: right;
+    border: 5px ridge green;
+
+}
